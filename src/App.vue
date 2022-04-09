@@ -310,7 +310,7 @@ export default {
         },
         {
           title: 'brewed_before',
-          value: null
+          value: ''
         },
       ]
     }
